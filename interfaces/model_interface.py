@@ -29,7 +29,7 @@ __license__ = "GPL"
 __version__ = "1.0.0"
 __maintainer__ = "Kasper van Maasdam"
 __email__ = "kaspervanm@gmail.com"
-__status__ = "Development"
+__status__ = "Release"
 
 lib = CDLL("C:/Users/Kasper/source/repos/NNModel/x64/Release/NNModel.dll")
 
